@@ -13,5 +13,7 @@ Don’t forget create a file .env and include the next constants:
 Example:
 API_KEY = “123456qwerty789”
 
+You can add on https://www.pythonanywhere.com/ task and automate the message to take your umbrella before leaving home
+
 ![img_2.png](img_2.png)
 ![img.png](img.png)
